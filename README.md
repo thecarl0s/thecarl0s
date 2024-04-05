@@ -27,4 +27,4 @@
 
 **Tools**
 
-<img align="center" src="https://skillicons.dev/icons?i=git,github,vscode,sublime,putty,linux,windows" />
+<img align="center" src="https://skillicons.dev/icons?i=git,github,vscode,sublime,linux,windows" />
