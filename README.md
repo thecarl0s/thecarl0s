@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I’m @thecarl0s</h1>
 
-<!--
-**thecarl0s/thecarl0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h5>
+  
+  - 🔭 I’m currently Systems Administrator and Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h5>
+  
+## Languages and Tools:
+
+**Backend**
+
+<img align="center" src="https://skillicons.dev/icons?i=php,java" />
+
+**Frontend**
+
+<img align="center" src="https://skillicons.dev/icons?i=js,bootstrap,html,css,jquery" />
+
+**Database**
+
+<img align="center" src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+**Cloud Servers**
+
+<img align="center" src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,nginx," />
+
+**Tools**
+
+<img align="center" src="https://skillicons.dev/icons?i=git,github,linux,vscode,sublime,windows,putty" />
